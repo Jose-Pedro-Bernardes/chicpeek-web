@@ -1,4 +1,5 @@
 # ChicPeek
+![Wireframe](./img/ChicPeek-–-Figma.png)
 
 ## Visão Geral
 
