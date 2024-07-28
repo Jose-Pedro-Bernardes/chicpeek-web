@@ -1,8 +1,6 @@
-# Projeto ChicPeek
+# ChicPeek
 
 ## Visão Geral
-
-**Nome do Projeto:** ChicPeek
 
 **Descrição:** ChicPeek é um e-commerce focado em vendas de roupas e acessórios. Este projeto é uma iniciativa pessoal com o objetivo de aprender mais sobre a montagem e funcionamento de e-commerces. Não tem fins lucrativos.
 
